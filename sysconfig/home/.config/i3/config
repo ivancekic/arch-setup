@@ -245,7 +245,6 @@ exec_always --no-startup-id ~/.bin/Dropdown-run.sh
 #exec_always --no-startup-id ~/.fehbg
 exec --no-startup-id nm-applet
 exec --no-startup-id dunst
-#exec --no-startup-id hsetroot -center ~/Pictures/wall/downloaded1.jpg
 # feh - Wallpaper Setter
 exec_always --no-startup-id feh --bg-fill ~/.config/wall/girl.jpg
 exec_always "setxkbmap -model pc104 -layout us,hr -variant ,, -option grp:alt_shift_toggle"
