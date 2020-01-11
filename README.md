@@ -4,6 +4,7 @@
 2. chmod a+x setup.sh
 3. ./setup.sh
 4. Take a cup of coffee
+5. Put your configuration in dir /sysconfig/home/ ...then run setup
 
 
 ## Preview
