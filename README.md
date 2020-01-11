@@ -21,8 +21,8 @@
 2. pacman -Syyy
 3. pacman -S git
 4. git clone https://github.com/ivancekic/arch-setup
-5. cd /arch-setup
+5. cd arch-setup
 6. chmod a+x setup.sh
-7. ./setup.sh
+7. ./setup.sh 
 
 
