@@ -6,4 +6,8 @@
 4. Take a cup of coffee
 
 
+## Preview
+![clean](https://raw.githubusercontent.com/ivancekic/arch-setup/master/cleanpreview.jpeg) <br />
+**Clean**, without any opened app. Only i3bar is visible. <br />
+
 
