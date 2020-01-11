@@ -7,7 +7,7 @@
 
 
 ## Preview
-![clean](https://raw.githubusercontent.com/ivancekic/arch-setup/master/cleanpreview.jpeg) <br />
+![clean](https://raw.githubusercontent.com/ivancekic/arch-setup/master/cleanpreview.jpg) <br />
 **Clean**, without any opened app. Only i3bar is visible. <br />
 
 
