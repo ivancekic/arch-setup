@@ -16,3 +16,13 @@
 **Termite**, my favourite terminal emulator. <br />
 
 
+# How to run installer 
+1. Boot Arch Linux from Usb or any media
+2. pacman -Syyy
+3. pacman -S git
+4. git clone https://github.com/ivancekic/arch-setup
+5. cd /arch-setup
+6. chmod a+x setup.sh
+7. ./setup.sh
+
+
