@@ -11,3 +11,7 @@
 **Clean**, without any opened app. Only i3bar is visible. <br />
 
 
+![termite](https://raw.githubusercontent.com/ivancekic/arch-setup/master/second-screenshot.jpg) <br />
+**Termite**, my favourite terminal emulator. <br />
+
+
