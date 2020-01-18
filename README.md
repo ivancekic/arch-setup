@@ -12,7 +12,7 @@
 7. Edit script with nano or vi
 8. Modify script and enter your passwords
 9. Then Run Script with command (# ./setup.sh) 
-10. Take a cup of coffee or a girlfriend
+10. Take a cup of coffee
 11. Enjoy in I3WM 
 
 
